@@ -1,0 +1,14 @@
+body {
+    background-color: #181a1b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 750px;
+    color: aliceblue;
+    font-family: 'Inter', sans-serif;
+}
+
+#gh {
+    display: inline;
+    text-align: center;
+}
